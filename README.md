@@ -43,16 +43,16 @@ This repository is **my personal collection of learning resources**, organized f
 ## **Programming**
 
 ### **GPU and High-Performance Computing**
-- **GPU Programming Resources**  
-- **CUDA Programming Course – High-Performance Computing with GPUs**  
-  *Add link if available*
+- **GPU Programming Resources**  https://www.youtube.com/playlist?list=PL5XwKDZZlwaY7t0M5OLprpkJUIrF8Lc9j
+- **CUDA Programming Course – High-Performance Computing with GPUs**  https://www.youtube.com/watch?v=86FAWCzIe_4
+
 
 ---
 
 ## **Mathematics**
 
-- **Calculus Visualized** by *Dennis F. Davis*  
-  *Add link if available*
+- **Calculus Visualized** by *Dennis F. Davis*  https://www.youtube.com/watch?v=MO-AExWdl4Q
+
 
 ---
 
@@ -75,16 +75,12 @@ Contributions are welcome. You may add:
 - **Visual resources**, **frameworks**, and **research papers**
 - Personal **notes**, **summaries**, and **learning paths**
 
+Feel free to suggest improvements or new categories.
+
 Submit a pull request with a brief description of the resource.
 
 ---
 
-## **Future Enhancements**
-Planned additions include:
-- A structured **Table of Contents**  
-- A recommended **folder structure** for expanding the repository  
-- A more detailed and extended **learning roadmap**
 
-Feel free to suggest improvements or new categories.
 
 
