@@ -1,73 +1,90 @@
-AI and ML Resources Repository
+# Resources Repository
 
-A curated collection of high-quality resources for Large Language Models, AI Agents, Deep Learning, Programming, Mathematics, Databases, and Machine Learning.
+This repository is **my personal collection of learning resources**, organized for learners, engineers, and researchers building modern AI systems.
 
-Large Language Models (LLMs)
-Books
+---
 
-Hands-On Large Language Models
-Authors: Jay Alammar and Maarten Grootendorst
-GitHub: https://github.com/HandsOnLLM/Hands-On-Large-Language-Models
+## **Large Language Models (LLMs)**
 
-Interactive Visualizations and Explainers
+### **Books**
+- **Hands-On Large Language Models**  
+  *Authors: Jay Alammar and Maarten Grootendorst*  
+  GitHub: https://github.com/HandsOnLLM/Hands-On-Large-Language-Models
 
-LLM Visualization (Ben Bycroft): https://bbycroft.net/llm
+### **Interactive Visualizations and Explainers**
+- **LLM Visualization (Ben Bycroft):** https://bbycroft.net/llm  
+- **Transformer Explainer (Polo Club):** https://poloclub.github.io/transformer-explainer/
 
-Transformer Explainer (Polo Club): https://poloclub.github.io/transformer-explainer/
+### **Courses and Educational Material**
+- **Parlance Labs Education:** https://parlance-labs.com/education/  
+- **Anthropic Courses:** https://github.com/anthropics/courses?tab=readme-ov-file
 
-Courses and Educational Material
+---
 
-Parlance Labs Education: https://parlance-labs.com/education/
+## **AI Agents**
 
-Anthropic Courses: https://github.com/anthropics/courses?tab=readme-ov-file
+### **Beginner Resources**
+- **AI Agents for Beginners (Code Resource):** https://lnkd.in/g6ZUFM53
 
-AI Agents
-Beginner Resources
+---
 
-AI Agents for Beginners (Code Resource): https://lnkd.in/g6ZUFM53
+## **Deep Learning**
 
-Deep Learning
-Courses
+### **Courses**
+- **Full Stack Deep Learning (Spring 2021):** https://fullstackdeeplearning.com  
+- **Practical Deep Learning for Coders (fast.ai):** https://course.fast.ai/  
+- **MIT 6.S191 – Introduction to Deep Learning:** https://introtodeeplearning.mit.edu/
 
-Full Stack Deep Learning (Spring 2021): https://fullstackdeeplearning.com
+### **Tools**
+- **Draw Neural Networks (NN-SVG):** https://github.com/alexlenail/NN-SVG
 
-Practical Deep Learning for Coders (fast.ai): https://course.fast.ai/
+---
 
-MIT 6.S191: Introduction to Deep Learning: https://introtodeeplearning.mit.edu/
+## **Programming**
 
-Tools
+### **GPU and High-Performance Computing**
+- **GPU Programming Resources**  
+- **CUDA Programming Course – High-Performance Computing with GPUs**  
+  *Add link if available*
 
-Draw Neural Networks (NN-SVG): https://github.com/alexlenail/NN-SVG
+---
 
-Programming
-GPU and High-Performance Computing
+## **Mathematics**
 
-GPU Programming Resources
+- **Calculus Visualized** by *Dennis F. Davis*  
+  *Add link if available*
 
-CUDA Programming Course – High-Performance Computing with GPUs
-(Add link if available)
+---
 
-Mathematics
+## **Databases**
 
-Calculus Visualized by Dennis F. Davis
-(Add link if available)
+- **ChartDB:** https://github.com/chartdb/chartdb
 
-Databases
+---
 
-ChartDB: https://github.com/chartdb/chartdb
+## **Machine Learning**
 
-Machine Learning
+- **Deep ML:** https://www.deep-ml.com/
 
-Deep ML: https://www.deep-ml.com/
+---
 
-Contributing
+## **Contributing**
 
-Contributions are welcome. Feel free to add:
-
-Courses, books, tools, and papers
-
-Visualizers and explainers
-
-Your own curated notes and learning resources
+Contributions are welcome. You may add:
+- **Courses**, **books**, **papers**, **tools**, and **explainers**
+- **Visual resources**, **frameworks**, and **research papers**
+- Personal **notes**, **summaries**, and **learning paths**
 
 Submit a pull request with a brief description of the resource.
+
+---
+
+## **Future Enhancements**
+Planned additions include:
+- A structured **Table of Contents**  
+- A recommended **folder structure** for expanding the repository  
+- A more detailed and extended **learning roadmap**
+
+Feel free to suggest improvements or new categories.
+
+
